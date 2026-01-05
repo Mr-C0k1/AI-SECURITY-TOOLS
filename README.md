@@ -57,8 +57,8 @@ Semua temuan sensitif yang tervalidasi akan disimpan secara otomatis dalam file:
 ares_loot.log
 
 # SERVER YANG DI DUKUNG 
-KALI LINUX 
-LINUX 
+1. KALI LINUX 
+2. LINUX 
 
 ⚠️ Disclaimer
 Penggunaan tool ini hanya diperuntukkan bagi Ethical Hacking, pengujian penetrasi resmi, dan riset keamanan. Penulis tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh alat ini. Gunakan dengan penuh tanggung jawab.
